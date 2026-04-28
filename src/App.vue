@@ -40,7 +40,7 @@ App
       :show="showBanner"
       @dismissed="dismissBanner"
     >
-      Like ffmpeg-commander, but native. <strong><a href="https://video-commander.com" target="_blank" rel="noopener">Video Commander</a></strong> is a full desktop app for video engineers. <strong><a href="https://video-commander.com" target="_blank" rel="noopener">video-commander.com</a> →
+      ffmpeg-commander builds the command. <strong><a href="https://video-commander.com" target="_blank" rel="noopener">Video Commander</a></strong> runs the whole workflow. <strong><a href="https://video-commander.com" target="_blank" rel="noopener">video-commander.com</a> →
     </b-alert>
 
     <div id="app-content" class="container">
